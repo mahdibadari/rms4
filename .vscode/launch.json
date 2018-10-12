@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Learning4Application",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "mitrais.mahdi.learning4.Learning4Application",
+            "args": "",
+            "projectName": "learning4"
+        }
+    ]
+}
